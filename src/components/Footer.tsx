@@ -28,7 +28,7 @@ export default function Footer() {
         <div className="border-t border-nude-principal/10 mt-10 pt-8 text-center">
           <p className="font-serif italic text-xl text-nude-principal mb-2">"Seu corpo merece cuidado, sua autoestima merece brilhar."</p>
           <p className="text-xs text-nude-principal/50 mb-4">
-            Site desenvolvido por <a href="https://www.instagram.com/gz.sites?igsh=MWd4NnhhbnpoMnRxYg==" target="_blank" rel="noopener noreferrer" className="hover:text-dourado transition-colors">Gustavo | GZ Sites</a>
+            Site desenvolvido por <a href="https://www.instagram.com/gz.sites/" target="_blank" rel="noopener noreferrer" className="hover:text-dourado transition-colors">Gustavo | GZ Sites</a>
           </p>
           <p className="text-xs text-nude-principal/50">
             &copy; {new Date().getFullYear()} Camilla Holanda. Todos os direitos reservados.
