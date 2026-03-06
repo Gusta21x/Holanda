@@ -35,7 +35,7 @@ export default function About() {
           >
             <div className="aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl relative z-10">
               <img
-                src="https://i.imgur.com/3vGa2mQ.jpeg"
+                src="https://i.imgur.com/AvgK94i.jpeg"
                 alt="Camilla Holanda"
                 className="w-full h-full object-cover"
               />

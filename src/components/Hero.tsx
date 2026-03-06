@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-nude-principal via-nude-principal/90 to-transparent z-10 md:w-2/3"></div>
         <img
-          src="https://i.imgur.com/UVOoKV0.jpeg"
+          src="https://i.imgur.com/5C7cQnF.jpeg"
           alt="Camilla Holanda - Estética Avançada"
           className="absolute right-0 top-0 h-full w-full md:w-2/3 object-cover object-center opacity-80"
         />

@@ -2,8 +2,18 @@ import { motion } from 'motion/react';
 
 const cards = [
   {
-    title: "Clareamento Íntimo — Método CLARIE®",
+    title: "Clareamento Íntimo — Método CLARÍE®",
     description: "Protocolo especializado para clareamento da região íntima feminina. Tratamento seguro, personalizado e acompanhado de perto para garantir resultado eficaz e respeitoso com a pele.",
+    image: "https://i.imgur.com/CqvE8JB.jpeg"
+  },
+  {
+    title: "Clareamento Íntimo — Método CLARÍE®",
+    description: "",
+    image: "https://i.imgur.com/g7ItJBf.jpeg"
+  },
+  {
+    title: "Clareamento Íntimo — Método CLARÍE®",
+    description: "",
     image: "https://i.imgur.com/10r9yOr.jpeg"
   },
   {
@@ -12,24 +22,14 @@ const cards = [
     image: "https://i.imgur.com/xyCTLr6.jpeg"
   },
   {
+    title: "Clareamento Íntimo — Método CLARÍE®",
+    description: "",
+    image: "https://i.imgur.com/32g5wle.jpeg"
+  },
+  {
     title: "Clareamento Corporal — Glúteos",
     description: "Tratamento de clareamento e renovação da pele dos glúteos. Protocolo personalizado que uniformiza o tom, trata manchas e devolve maciez e confiança.",
     image: "https://i.imgur.com/HLWi6an.jpeg"
-  },
-  {
-    title: "Tratamento Facial — Clareamento e Manchas",
-    description: "Protocolo facial que clareia, uniformiza o tom da pele e trata manchas com ativos especializados. Resultado progressivo para uma pele mais luminosa, saudável e renovada.",
-    image: "https://i.imgur.com/0AraqpN.jpeg"
-  },
-  {
-    title: "Clareamento de Costas",
-    description: "Renovação e uniformização do tom da pele das costas. Protocolo que trata manchas, melhora a textura e devolve uniformidade para você se sentir bem em qualquer roupa.",
-    image: "https://i.imgur.com/rKzt1IF.jpeg"
-  },
-  {
-    title: "Clareamento de Axilas",
-    description: "Tratamento suave e eficaz para clarear e renovar a pele das axilas. Protocolo personalizado com ativos que uniformizam o tom e fortalecem a pele da região.",
-    image: "https://i.imgur.com/74aFIMT.jpeg"
   }
 ];
 
@@ -52,7 +52,7 @@ export default function ServiceCards() {
             viewport={{ once: true }}
             className="text-4xl md:text-5xl font-serif font-bold text-texto"
           >
-            Especialização em Clareamento
+            Método CLARÍE® em Prática
           </motion.h2>
         </div>
 

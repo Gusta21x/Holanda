@@ -7,7 +7,9 @@ const serviceImages = [
   "https://i.imgur.com/Sapwl0C.jpeg",
   "https://i.imgur.com/opGlSzI.jpeg",
   "https://i.imgur.com/mE5529f.jpeg",
-  "https://i.imgur.com/C1rBSHt.jpeg"
+  "https://i.imgur.com/C1rBSHt.jpeg",
+  "https://i.imgur.com/0AraqpN.jpeg",
+  "https://i.imgur.com/rKzt1IF.jpeg"
 ];
 
 export default function Services() {
@@ -21,7 +23,7 @@ export default function Services() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-serif font-bold text-texto mb-2"
           >
-            Método CLARÍE® em Prática
+            Especialização em Clareamento
           </motion.h2>
           <p className="text-texto/60 font-light tracking-widest uppercase text-xs">
             Resultados e Procedimentos
