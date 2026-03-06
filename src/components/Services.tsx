@@ -3,13 +3,10 @@ import { motion, useScroll, useTransform } from 'motion/react';
 
 const serviceImages = [
   "https://i.imgur.com/MJNFALR.jpeg",
-  "https://i.imgur.com/mFFY6zS.jpeg",
-  "https://i.imgur.com/Sapwl0C.jpeg",
-  "https://i.imgur.com/opGlSzI.jpeg",
   "https://i.imgur.com/mE5529f.jpeg",
-  "https://i.imgur.com/C1rBSHt.jpeg",
-  "https://i.imgur.com/0AraqpN.jpeg",
-  "https://i.imgur.com/rKzt1IF.jpeg"
+  "https://i.imgur.com/KTOV8vb.jpeg",
+  "https://i.imgur.com/8dqPa2X.jpeg",
+  "https://i.imgur.com/bpJ5N4I.jpeg"
 ];
 
 export default function Services() {
